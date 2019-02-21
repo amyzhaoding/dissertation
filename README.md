@@ -30,6 +30,7 @@ See https://twitter.com/emollick/status/1095373469875867648 for the actual threa
 
 
 **Academic References**:  
+
 [Henderson & Clark 1990 paper](https://www.jstor.org/stable/2393549#metadata_info_tab_contents)  
 
 [Bresnahan-Greenstein-Henderson 2012 paper](https://www.nber.org/chapters/c12354)
