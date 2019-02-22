@@ -31,8 +31,20 @@ See https://twitter.com/emollick/status/1095373469875867648 for the actual threa
 
 **Academic References**:  
 
-[Bill Barnett's summary of three major academic theories about why incumbents don't see change coming](http://www.barnetttalks.com/2016/10/leading-amidst-change-why-strategy.html)  
+[Bill Barnett's summary of three major academic theories about why incumbents don't see change coming](http://www.barnetttalks.com/2016/10/leading-amidst-change-why-strategy.html) 
 
-[Henderson & Clark 1990 paper](https://www.jstor.org/stable/2393549#metadata_info_tab_contents)  
+[Discontinuous innovation theory: Tushman & Anderson 1986 paper](https://www.jstor.org/stable/2392832)
+
+[Structural inertia theory: Hannan & Freeman 1984 paper](https://www.jstor.org/stable/2095567)
+
+[Structural inertia theory: Barnett & Carroll 1995 paper](https://www.jstor.org/stable/2083410)
+
+[Structural inertia theory: Carroll & Hannan 2000 book](https://press.princeton.edu/titles/6824.html)
+
+[Disruption theory: Bower & Christensen 1995 paper](https://hbr.org/1995/01/disruptive-technologies-catching-the-wave)
+
+[Disruption theory: Christensen-Raynor-McDonald 2015 paper](https://hbr.org/2015/12/what-is-disruptive-innovation)
+
+[Henderson & Clark 1990 paper](https://www.jstor.org/stable/2393549)  
 
 [Bresnahan-Greenstein-Henderson 2012 paper](https://www.nber.org/chapters/c12354)
