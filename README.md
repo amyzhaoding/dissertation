@@ -24,7 +24,7 @@ See https://twitter.com/emollick/status/1095373469875867648 for the actual threa
 
 [Kodak moving too early on Digital](https://spectrum.ieee.org/at-work/innovation/the-lowballing-of-kodaks-patent-portfolio)  
 
-[Summarizing related research](https://www.ft.com/content/3c1ab748-b09b-11e8-8d14-6f049d06439c)  
+[FT's Tim Harford summarizing research on why incumbents fail](https://www.ft.com/content/3c1ab748-b09b-11e8-8d14-6f049d06439c)  
 
 [Buggy whips](https://www.nytimes.com/2010/01/10/business/10digi.html)  
 
