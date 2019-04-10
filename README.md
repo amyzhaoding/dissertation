@@ -48,9 +48,9 @@ See https://twitter.com/emollick/status/1095373469875867648 for the actual threa
 
 [Bill Barnett's summary of three major academic theories about why incumbents don't see change coming](http://www.barnetttalks.com/2016/10/leading-amidst-change-why-strategy.html) 
 
-[Information Wants to Be Shared](https://hbr.org/2012/10/information-wants-to-be-shared)
+[Joshua Gans: Information Wants to Be Shared](https://hbr.org/2012/10/information-wants-to-be-shared)
 
-[The Real Secret to Thriving Amid Disruptive Innovation](https://hbr.org/2011/01/this-wave-of-disruptive-innova.html)
+[Justin Fox: The Real Secret to Thriving Amid Disruptive Innovation](https://hbr.org/2011/01/this-wave-of-disruptive-innova.html)
 
 [Discontinuous innovation theory: Tushman & Anderson 1986 paper](https://www.jstor.org/stable/2392832)
 
