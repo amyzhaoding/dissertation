@@ -22,16 +22,35 @@ See https://twitter.com/emollick/status/1095373469875867648 for the actual threa
 
 **Business Media References**:
 
-[Kodak moving too early on Digital](https://spectrum.ieee.org/at-work/innovation/the-lowballing-of-kodaks-patent-portfolio)  
+[FT's Tim Harford summarizing research on why incumbents fail](https://www.ft.com/content/3c1ab748-b09b-11e8-8d14-6f049d06439c) 
 
-[FT's Tim Harford summarizing research on why incumbents fail](https://www.ft.com/content/3c1ab748-b09b-11e8-8d14-6f049d06439c)  
+[The Disruption machine: What the gospel of innovation gets wrong](https://www.newyorker.com/magazine/2014/06/23/the-disruption-machine)
+
+[When giants fail: What business has learned from Clayton Christensen](https://www.newyorker.com/magazine/2012/05/14/when-giants-fail)
+
+[The iPhone and Disruption: Five Years In](https://daringfireball.net/2012/07/iphone_disruption_five_years_in)
+
+[With Its Tablet, Apple Blurs Line Between Devices](https://www.nytimes.com/2010/01/28/technology/companies/28apple.html)
+
+[How management has failed at RIM](https://www.canadianbusiness.com/technology-news/how-management-has-failed-at-rim/)
+
+[Kodak moving too early on Digital](https://spectrum.ieee.org/at-work/innovation/the-lowballing-of-kodaks-patent-portfolio) 
+
+[Kodak’s First Digital Moment](https://lens.blogs.nytimes.com/2015/08/12/kodaks-first-digital-moment/)
+[Mistakes Made On The Road To Innovation(Kodak)](https://www.bloomberg.com/news/articles/2006-11-26/mistakes-made-on-the-road-to-innovation) 
 
 [Buggy whips](https://www.nytimes.com/2010/01/10/business/10digi.html)  
+
+[Will MOOCs be flukes?](https://www.newyorker.com/science/maria-konnikova/moocs-failure-solutions)
 
 
 **Academic References**:  
 
 [Bill Barnett's summary of three major academic theories about why incumbents don't see change coming](http://www.barnetttalks.com/2016/10/leading-amidst-change-why-strategy.html) 
+
+[Information Wants to Be Shared](https://hbr.org/2012/10/information-wants-to-be-shared)
+
+[The Real Secret to Thriving Amid Disruptive Innovation](https://hbr.org/2011/01/this-wave-of-disruptive-innova.html)
 
 [Discontinuous innovation theory: Tushman & Anderson 1986 paper](https://www.jstor.org/stable/2392832)
 
