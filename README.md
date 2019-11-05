@@ -67,3 +67,36 @@ See https://twitter.com/emollick/status/1095373469875867648 for the actual threa
 [Henderson & Clark 1990 paper](https://www.jstor.org/stable/2393549)  
 
 [Bresnahan-Greenstein-Henderson 2012 paper](https://www.nber.org/chapters/c12354)
+
+
+## User Entrepreneurship
+Practitioner/Venture Capitalist Li Jin at a16z talk about "Enterprization of consumer" that echoes the concept of user entrepreneurship. See https://twitter.com/ljin18/status/1169753411639640064 for the actual thread
+@ljin18: New tools are emerging and focusing on *consumers* first. That's because consumers today aspire to become businesses tomorrow. I’ll dub this the "Enterprization of consumer."
+It used to be the case that software tools focused foremost on business customers, because they could spend money on such products. In that vein, Canva, Shopify, Wix, etc. built multi-billion dollar businesses based on empowering and selling to a large number of SMBs.
+Now, a new generation of tools have users that are initially just regular individuals, but who want to grow into businesses in their own right. There’s an opportunity to engage users pre-”enterprization,” enable their growth, and capture economic value as they professionalize. The recipe is to start with a very basic offering -- something that might even look like just a toy -- and, as customers grow and start to earn revenue and develop new needs, get pulled into additional product capabilities.
+By virtue of engaging users early and enabling them to start and grow their businesses, these products build deep workflow lock-in and loyalty, and have the potential to supplant existing b2b-focused platforms.
+The undercurrent here is that digital platforms have enabled people to amass an audience, and so creates an opening to help individuals turn their unique skills/knowledge into a business, whether that’s through designing and selling merch, starting a podcast, or other means.
+Some examples of the “enterprization of consumer”:
+- @Instasize started as a free app for resizing IG photos, then realized much of their user base was comprised of “aspirational influencers” who want to uplevel + differentiate their content and grow their following.So Instasize moved into premium features to help users achieve these goals, including filters and editing tools, as well as an inspiration map that helps users find photo-worthy/Instagrammable locations around the world.
+- @SubstackInc helps individuals easily launch paid email newsletters. The tool is built to be intuitive enough for normal consumers to use, who can opt to make their newsletters free. At the high end, top creators on Substack are making $500K a year!In the old world, these writers would likely have had to join an existing media publication as their livelihood.
+- Universe (@onuniverse) enables people to create websites entirely from mobile in a few taps. As a result of being mobile-native, the user base skews young and international. Lots of the websites created w/ Universe are purely personal/just for fun.These are websites that people likely wouldn't have built with SMB-focused website builders. You can imagine these mobile-native consumers staying with Universe as they grow and monetize, and the platform can capture more value by building out richer functionality and features.
+- CALA (@thisiscala) is fashion house technology that makes it easy to design, produce, and deliver custom apparel. Initially, the platform was used by a lot of fashion design students and influencers to create one-off projects.As these creators grow into the next generation of fashion designers and launch their own brands, CALA grows with them and can capture more value through the managed marketplace.
+The “enterprization of consumer” is all about starting off as a lightweight, accessible consumer product. But as those individual consumers grow into businesses -- whether as influencer brands, writers, podcasters, streamers, etc. -- these tools can evolve to meet their needs.
+
+@ryanlouie: Great thread, I think something similar also goes on during #patientcare. The process of healing & stability in psychiatry oftentimes involves patients moving beyond just being a "consumer", but of truly taking charge as a "startup founder" of their new self with a team.
+
+@adatta02: I think a big factor that can't be discounted is the fracturing of IT procurement within big companies. Today it's cool for some 10 person product team to use Trello while JIRA is the "official" tool. And Trello can use that as a wedge to sell the whole co.
+
+@sarahnwaller: Love this! Tons of social services now offer personal plans. Tools like @latermedia offer lightweight options for individuals or solopreneur. I’ve even seen small accounts boost content using in platform tech for increased reach.
+
+@ATavelli: New plataform focus on consumer first http://connectif.ai marketing automation for ecommerce. See you this tool
+
+@alex_singh_mann: Really interesting thread. Check out http://memory.ai - its a tool to help freelancers manage their time and I think speaks to a lot of what you have pointed out
+
+@paulotrakto: This is such an interesting thread. @trakto_ is on tbe same path but instead of freemium we started as 15 day trial and a lowcost premium. It was awesome to get our first 1M in ARR. now we are moving towards a freemium model because we need to educate more our userbase.
+
+**Academic References**:
+[The accidental entrepreneur: Shah & Tripsas 2007 paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/sej.15)
+
+**Other information**:
+[thread on Chinese influencer industry and incubators dedicated to it](https://twitter.com/ljin18/status/1088501349187182592)
